@@ -11,4 +11,3 @@ int main(){
 	cout<<city +" "+","+" "+ country<<endl;
 	
 }
-
